@@ -1,14 +1,20 @@
 # DevOps_Azure_Terraform_Python_CourseOutline
 
+##### Week 1 ( 4 days Python 1 day git)
+##### Week 2 (1 day Git and Github,4 days Azure Fundamentals & Entraid)
+##### Week 3 ( 2 days networking,3 Terraform, )
+##### Week 4 ( 2 days docker, 2 days kubernetes,1 Github Actions)
+##### Week 5 ( 1 day Github Actions, 4 days Castone project)
+
 # <img width="30" height="33" alt="image" src="https://github.com/user-attachments/assets/61a14b24-1532-4739-80d9-2f39e3a71b8d" />
  **Python (Basic To Advance) )**
 
 <details>
-<summary>📘 <strong>Python Module</strong></summary>
+<summary>📘 <strong>Python Module(Week1 3 days)</strong></summary>
 
 ---
 
-### 🧩 **Module 1: Python Basics**
+### 🧩 **Module 1: Python Basics **
 
 <details>
 <summary><strong>1.1 Variables and Data Types</strong></summary>
@@ -298,7 +304,7 @@
 
 **Assignments:**
 
-1. Build a small Flask API endpoint that returns data in JSON or XML depending on the `Accept` header.
+1. Build a small Python Application to 
 
 </details>
 
@@ -2131,92 +2137,3 @@ This version maintains the same style and structure as your earlier modules (Pyt
 ---
 
 
-## 👤 **User Profile: DevOps Engineer (Azure & CI/CD Specialist)**
-
-### **Professional Summary**
-
-Dynamic and results-driven **DevOps Engineer** with a strong foundation in **cloud infrastructure, automation, and continuous delivery**. Skilled in designing, implementing, and maintaining scalable **CI/CD pipelines** using **GitHub Actions**, **Docker**, **Kubernetes**, and **Terraform** on **Microsoft Azure**. Experienced in optimizing development workflows, improving deployment reliability, and enabling seamless collaboration between development and operations teams.
-
----
-
-### **Core Competencies**
-
-* **CI/CD Automation:** Expert in creating and managing complete CI/CD pipelines integrating Git, Docker, Kubernetes, and GitHub Actions for end-to-end software delivery.
-* **Cloud Platform:** Hands-on experience with **Microsoft Azure** services including Storage, Key Vault, Web Apps, Function Apps, and Resource Management.
-* **Infrastructure as Code (IaC):** Proficient in **Terraform** for provisioning and managing Azure infrastructure using code-based automation.
-* **Containerization & Orchestration:** Skilled in building, deploying, and scaling containerized applications using **Docker** and **Kubernetes** (AKS).
-* **Version Control & Collaboration:** Deep understanding of **Git**, **GitHub**, and **GitHub Enterprise Administration** — including branching strategies, PR workflows, and access management.
-* **Monitoring & Security:** Knowledge of container security, GitHub secret management, Azure RBAC, and DevOps best practices for compliance and governance.
-* **Scripting & Programming:** Solid foundation in **Python** for automation scripts, API integrations, and workflow customization.
-* **Identity & Access Management:** Experience with **Microsoft Entra ID (Azure AD)**, RBAC, role assignments, and policy-based governance.
-
----
-
-### **Technical Skill Set**
-
-**Version Control & CI/CD Tools:**
-Git, GitHub Actions, Azure DevOps, Docker, Kubernetes (AKS), Helm
-
-**Infrastructure & Cloud:**
-Terraform, Azure Resource Manager (ARM), Azure Compute, Azure Storage, Azure Key Vault, Azure Web App, Function Apps
-
-**Programming & Automation:**
-Python, PowerShell, YAML, Bash
-
-**Security & Access Management:**
-Azure Active Directory (Entra ID), Azure Policies, RBAC, Secrets Management
-
-**Monitoring & Observability:**
-Azure Monitor, Container Insights, Prometheus (basic), Application Insights
-
----
-
-### **Key Project Experience**
-
-**1. Automated CI/CD Pipeline with GitHub Actions**
-
-* Designed and implemented a multi-stage pipeline integrating GitHub Actions with Docker and Kubernetes (AKS).
-* Automated image builds, testing, and rolling deployments.
-* Integrated Slack notifications and rollback workflows for deployment stability.
-
-**2. Azure Infrastructure Automation using Terraform**
-
-* Created reusable Terraform modules to deploy Azure VMs, VNETs, Subnets, Storage Accounts, and Key Vaults.
-* Configured remote state management and environment-based workspaces (Dev/Prod).
-
-**3. Containerized Application Deployment**
-
-* Built and optimized Docker images for microservices.
-* Managed container networking, storage volumes, and resource usage.
-* Deployed multi-container applications using Docker Compose and Kubernetes.
-
-**4. Cloud Resource Management & Security**
-
-* Configured Azure Storage, Web Apps, and Function Apps with network isolation and RBAC.
-* Implemented Key Vault secrets management for secure DevOps automation.
-
-**5. GitHub Enterprise Administration**
-
-* Managed users, repositories, and access control in GitHub Enterprise.
-* Configured SSO, workflow policies, and GitHub Actions runners for enterprise-level automation.
-
----
-
-### **Certifications (Optional Section)**
-
-*(Add if applicable)*
-
-* Microsoft Certified: Azure Fundamentals (AZ-900)
-* Microsoft Certified: DevOps Engineer Expert (AZ-400)
-* HashiCorp Certified: Terraform Associate
-
----
-
-### **Soft Skills**
-
-* Strong analytical and problem-solving mindset
-* Excellent collaboration and communication skills
-* Proven ability to automate repetitive tasks and improve process efficiency
-* Focused on reliability, scalability, and continuous improvement
-
----
