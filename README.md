@@ -10,7 +10,7 @@
 
     <a href=https://www.devopsworld.co.in/2024/06/git-quiz.html> Git Quiz </a>
     
-3. 
+3. <a href=https://github.com/kmitsolution/Azure/tree/main/Az-104> Azure Fundamentals and SysAdmin </a>
 
 ## Weekwise Schedule
 
