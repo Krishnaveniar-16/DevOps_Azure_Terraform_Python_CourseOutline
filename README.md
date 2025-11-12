@@ -8,7 +8,7 @@
     
 2. <a href=https://www.devopsworld.co.in/p/git-commands.html> Git </a>
 
-    <a href=devopsworld.co.in/2024/06/git-quiz.html> Git Quiz </a>
+    <a href=https://www.devopsworld.co.in/2024/06/git-quiz.html> Git Quiz </a>
     
 3. 
 
